@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sigma-future-446218-t3",
+  "private_key_id": "7d0ec310e3884a4611eaf2e5d7cd85d8f492516b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCLyG15K4k1r1m7\nr0InRe52bEO7OUFHWJbZBuwhzR4rcsvOW4zW875O0X9ZaTMksjWJuVhkJPIDW6nu\nylwhOR0ucmPihmJio5iqM98O/lDTlyD/FSYJFRvWt7sG0z2rUD0FgI9DUR7VAxHK\nOmCrabHFqL25R472PY3YxR15MU89ecucyFQ86vDZu46sdMY9rG0XnAkFLF6/P1bj\ntAitVSak1/jvuNu5V0Zi30CJbRedgX2i0y9wzfbwbJXcmkOcgsyKYnM82zln/2Tn\nDaAP2YQG7gfS/01l7rnVVgNfYYjQoqt0wUfcgZMN/TeJS/hCCNRUEoUTP0BiM36U\nDyoGnxUfAgMBAAECggEAG69Sn1EUF+Hm79lCTOz40dOXhplMaIkPN2S7l+Y8N3bB\nDtnrBxe3dXzgsCC51GbHW8Ot0gfPNwMMoRLLNHlPYkedqNvc2JR2RB+J6jpMX9vq\n2RqjMeFQZjJ1hGCKMkfuDgzsUvTaGm5FM7xkMQ75+p/1E6Esm3CNi4Ve1QYDH7WY\nwxr+xFxJ1LKcfXQ2WKoDT7B0SVoiakf+43XfKPYqPlqwigRAEE73nXy5rZsLkTKj\nhKOnvwER69uhm+epFq4gCcnRm+8md39jjOX0nkkxAJ42sFRtjM3YzxKfoJy8u+a+\nCufav3p5/oR4/VYqDgY1S66DqK08gjwRyTnRT+wWYQKBgQC+ODljxX1txtXNUSxG\nrUBUOlp9A4czlbTIsDg6+MOUVeq+i6+qPOrXBmirdbSxS8ZLlhYDlvkBpDQPOGsJ\nCHFH9tlk4oBrEWP87oGa0NHW8WE7i+ohEWHOTRZRArJjMOiTq5c8XegjYJ12Lnno\nAjfHMXWRqR6W92sxA8rY4qZ4LQKBgQC8HyOwqB81lXPkil314fzw1Urvc6xaLEE+\nN3319mqJTfYqIBh1AV+TzLfDLpuU3CQG6SzzoNtUgBmmmedXAwEOFZbfsavv5Ls3\nw1hRNo2RR2yfz+V8dXWxxCNSXgSjSLiOPzneikBCxNW02rgKpPL82LJDqYm4fuNc\nr1uKJOPl+wKBgQCC5hgAI4hEAd9hMenhHRo2nA1nGAVzJyNIM5QOaN/V9SXcSC3z\nXYZRwDRJQW+9ziJAI6E0iTEDwyacDrwBdFDYL/O76+5pP4dqKAsCKY8tdd/uZUMR\nzG9c00l3J/7wKVjzPdKOFSVJKxRQnnz/fn850TxRp2rIgqy+BxkRFS9vZQKBgD+W\nJvInYaUzByFQw8HAyUZ+Uf3uE2vHWaY2C5V/3TLb70D96EZkWHIU2GhY8K24W1Ua\nq98NmBVP11vA2blHgqvIEF88JunHXqDSnp+U2PUqN0UteFxBN68GpQnKTbcDdZ5f\nMKhQAriO381pwJuYdamRdW/5dluuSBukCkT/gyjRAoGAM21O/pFWPqF+eoQeXyqw\napKtV36dAq3bVzNlvp3FX5uYQm8t9zxzz2RcAMvwKAOVpTA/oWs/pn9ifSZQz9wS\nHRWRpLXEdwnL5ut8njKqCojFFdA04/msdcVFApK4wtVJy/U7DO+6kBNoasc8Xw9n\n5+GARoA4SJ8P3ILPF7yfAtQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "abhishekwatra495-gmail-com@sigma-future-446218-t3.iam.gserviceaccount.com",
+  "client_id": "100047183353884063414",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/abhishekwatra495-gmail-com%40sigma-future-446218-t3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

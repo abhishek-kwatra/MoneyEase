@@ -1,0 +1,47 @@
+/* styles.css */
+
+/* Centering the content within the jumbotron */
+.centered {
+    text-align: center;
+  }
+  
+  /* Ensuring the jumbotron covers the full viewport height */
+  .jumbotron {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa; /* Light gray background */
+  }
+  
+  /* Styling for the lead paragraph */
+  .lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+  }
+  
+  /* Additional styling for buttons to ensure good contrast and padding */
+  .btn-light {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+  }
+  
+  .btn-dark {
+    color: #fff;
+    background-color: #333;
+    border-color: #333;
+  }
+  
+  /* Adjusting the size of the icon */
+  .fa-key {
+    margin-bottom: 20px;
+  }
+  
+  /* Basic styling for the footer, you can customize it further */
+  footer {
+    padding: 20px 0;
+    text-align: center;
+    background-color: #f8f9fa;
+  }
+  
